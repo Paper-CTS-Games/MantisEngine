@@ -1,7 +1,12 @@
-LICENSE - CGL 2022-2023
+MIT License - CGL 2022-2023
 
-This license grants permission to use all code in this repository for private projects, with the exception of examples which may be used anywhere.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for private projects, subject to the following conditions:
 
-THIS CODE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
 
-THE AUTHOR OF THIS CODE SHALL NOT BE LIABLE FOR ANY DAMAGES  RESULTING FROM THE USE OR INABILITY TO USE THIS CODE.
+2. The Software or any derivative works thereof may not be used in any commercial projects.
+
+3. Examples and other non-software content are excluded from this license and may be used as desired.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OF THIS SOFTWARE BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
